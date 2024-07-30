@@ -29,7 +29,7 @@ const Footer = () => {
           <InstagramIcon />
           <TwitterIcon />
           <GitHubIcon />
-          {/* <YouTubeIcon /> */}
+          
         </Box>
         <Typography
           variant="h5"
